@@ -7,7 +7,7 @@ Minha jornada na programação é impulsionada pela curiosidade e pelo desejo de
   * **Frontend**: JavaScript/TypeScript e React.js (com Tailwind CSS)
   * **Backend**: Node.js, Express.js, PostgreSQL e MongoDB
 
-Tenho aplicado essas tecnologias em projetos práticos que demonstram minha evolução e dedicação, disponíveis no meu [portfólio](https://www.google.com/search?q=https://portfolio-de-rodrigo.vercel.app/) e [GitHub](https://www.google.com/search?q=https://github.com/rodrigocvmd).
+Tenho aplicado essas tecnologias em projetos práticos que demonstram minha evolução e dedicação, disponíveis no meu [portfólio](#) e aqui nos meus repos do GitHub.
 
 Fluente em inglês e sempre em busca de novos aprendizados, estou comprometido com as boas práticas de desenvolvimento, como **Clean Code** e **testes unitários**, e pronto para colaborar em ambientes dinâmicos e inovadores. Minha busca por excelência técnica é reforçada pela atual graduação em Ciência da Computação na UCB, complementando minha base teórica e prática.
 
